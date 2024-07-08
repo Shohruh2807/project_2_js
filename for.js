@@ -1,5 +1,5 @@
 'use strict'
-alert("Qaysi oyda qancha kundan iborat ekanligini bilmoqchimisiz? Unda bu narsa yordam beradi☺ alert variant")
+alert("Qaysi oyda qancha kundan iborat ekanligini bilmoqchimisiz? Unda bu narsa yordam beradi☺")
 let month=prompt("Oyning nomini kiriting!(hammasi kichik harflarda):")
 function find(){
     alert("F12 bosib consolga kiring!!!")
